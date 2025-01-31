@@ -1,13 +1,13 @@
 # Hi there, I'm Riccardo! 👋
 
-![VenomBigBozz's github stats](https://github-readme-stats.vercel.app/api?username=VenomBigBozz&title_color=58A6FF&count_private=true&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_border=true&show_icons=true)
+![Nuncix's github stats](https://github-readme-stats.vercel.app/api?username=Nuncix&title_color=58A6FF&count_private=true&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_border=true&show_icons=true)
 
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-nuncibello/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riccardo.n1402@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenomBigBozz)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/VenomBigBozz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuncix)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Nuncix)
 
 ## 💼 Technical Skills
 
@@ -47,12 +47,12 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomBigBozz&layout=compact&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_border=true&card_width=445&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuncix&layout=compact&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_border=true&card_width=445&langs_count=10)
 
 <!-- ## 📝 Website -->
 
 <!--
-**VenomBigBozz/VenomBigBozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nuncix/Nuncix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
